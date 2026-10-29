@@ -1,2 +1,3 @@
 i amm learning git 
 git is version controller 
+delete change next to the commit 
