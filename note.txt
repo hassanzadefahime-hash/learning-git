@@ -7,3 +7,4 @@ new text in main branch
 
 new text in new branch 
 
+today i am git branch
