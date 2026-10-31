@@ -11,3 +11,5 @@ today i am git branch
 i am learnin github push and pull
 
 edit note from github
+
+i am practicing git fetch
